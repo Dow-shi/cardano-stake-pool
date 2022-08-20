@@ -1,7 +1,7 @@
 {
-"name": "EXPO Pool",
-"description": "This pool supports the popular activities of Cardano and SPO. Expand the Cardano ecosystem by making suggestions to catalyst and getting funding.",
-"ticker": "EXPO",
+"name": "DOW Pool",
+"description": "This pool supports DOW and CARDAW, who are working hard to implement and develop the Cardano blockchain.",
+"ticker": "DOW",
 "homepage": "https://expo-dow.com",
 "extended": "https://raw.githubusercontent.com/Dow-shi/cardano-stake-pool/main/extendedmeta.json"
 }
