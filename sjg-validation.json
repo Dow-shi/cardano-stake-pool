@@ -1,6 +1,6 @@
 {
 "name":"ダウ氏",
-"ticker":"EXPO",
+"ticker":"DOW",
 "discordId":"874639305212043345",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/Dow-shi/cardano-stake-pool/main/poolMetaData.json",
